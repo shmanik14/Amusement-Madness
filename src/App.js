@@ -10,6 +10,7 @@ import {
 import NoMatch from './Components/NoMatch/NoMatch';
 import Home from './Components/Home/Home';
 import LeagueDetails from './Components/LeagueDetails/LeagueDetails';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -27,7 +28,8 @@ function App() {
               <NoMatch />
             </Route>
           </Switch>
-      </Router>     
+      </Router>  
+      <Footer></Footer> 
     </div>
   );
 }

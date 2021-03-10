@@ -63,6 +63,7 @@ img.card-img-top {
 }
 .social {
     text-align: center;
+    margin-bottom: 50px;
 }
 .social ul li{
     list-style: none;
@@ -72,4 +73,14 @@ img.card-img-top {
     font-size: 30px;
     padding: 0 20px;
     color: #c31432;
+}
+.back-home{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.copyright{
+    text-align: center;
+    background-color: #240b36;
+    padding: 15px 0;
+    color: #fff;
 }
